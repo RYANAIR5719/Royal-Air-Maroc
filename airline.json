@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "color": "",
-    "bgcolor": "",
+    "name": "Royal Air Maroc",
+    "color": "#EE3024",
+    "bgcolor": "#FFFFFF",
     "aircrafts": {
         "cub": {
             "name": "Piper J3 Cub",
@@ -355,6 +355,13 @@
         "Boeing 737Max 8 (TUI)_427352_3054": {
             "name": "Boeing b737-800",
             "liveries": [
+                {
+                    "name": "CN-ROB (03 - 08 Livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2003/CN-ROB.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                }
             ],
             "labels": [
                 "Texture"
