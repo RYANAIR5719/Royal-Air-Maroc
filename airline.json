@@ -356,35 +356,35 @@
             "name": "Boeing b737-800",
             "liveries": [
                 {
-                    "name": "CN-RNJ (OG Livery)",
+                    "name": "CN-RNJ (Original Design))",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/OG/CN-RNJ.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
-                    "name": "CN-RNJ (OG & 2004 Hybrid)",
+                    "name": "CN-RNJ (Original & 2004 Design Hybrid)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/special/CN-RNJ1.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
-                    "name": "CN-RNN (OG Livery)",
+                    "name": "CN-RNN (Original Design)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/OG/CN-RNN.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
-                    "name": "CN-RNZ (04 - 08)",
+                    "name": "CN-RNZ (2004 - 2008 Design)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/2004/CN-RNZ.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
-                    "name": "CN-ROB (04 - 08)",
+                    "name": "CN-ROB (2004 - 2008 Design)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/2004/CN-ROB.jpg"
                     ],
@@ -399,42 +399,42 @@
             "name": "Boeing b737-800",
             "liveries": [
                 {
-                    "name": "CN-RNJ (04 - 08)",
+                    "name": "CN-RNJ (2004 - 2008 Design)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-RNJ.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
-                    "name": "CN-RNJ (04 - 08, Eyebrows)",
+                    "name": "CN-RNJ (2004 - 2008 Livery, Eyebrows)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-RNJe.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
-                    "name": "CN-RNZ (04 - 08)",
+                    "name": "CN-RNZ (2004 - 2008 Design)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-RNZ.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
-                    "name": "CN-RNZ (04 - 08, Eyebrows)",
+                    "name": "CN-RNZ (2004 - 2008 Livery, Eyebrows)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-RNZe.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
-                    "name": "CN-ROB (04 - 08)",
+                    "name": "CN-ROB (2004 - 2008 Design)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-ROB.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
-                    "name": "CN-ROB (04 - 08, Eyebrows)",
+                    "name": "CN-ROB (2004 - 2008 Livery, Eyebrows)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-ROBe.jpg"
                     ],
