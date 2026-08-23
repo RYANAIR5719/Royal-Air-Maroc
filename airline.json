@@ -352,6 +352,49 @@
                 "Engine texture"
             ]
         },
+        "738nw_267286_6124": {
+            "name": "Boeing b737-800",
+            "liveries": [
+                {
+                    "name": "CN-RNJ (OG Livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/OG/CN-RNJ.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
+                    "name": "CN-RNJ (OG & 2004 Hybrid)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/special/CN-RNJ1.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
+                    "name": "CN-RNN (OG Livery)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/OG/CN-RNN.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
+                    "name": "CN-RNZ (04 - 08)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/2004/CN-RNZ.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
+                    "name": "CN-ROB (04 - 08)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/2004/CN-ROB.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
         "Boeing 737Max 8 (TUI)_427352_3054": {
             "name": "Boeing b737-800",
             "liveries": [
