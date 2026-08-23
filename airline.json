@@ -370,6 +370,20 @@
                     "credits": "RYANAIR5719"
                 },
                 {
+                    "name": "CN-RNZ (04 - 08)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-RNZ.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
+                    "name": "CN-RNZ (04 - 08, Eyebrows)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-RNZe.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
                     "name": "CN-ROB (04 - 08)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-ROB.jpg"
