@@ -358,7 +358,7 @@
                 {
                     "name": "CN-RNJ (Original Design))",
                     "texture": [
-                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/OG/CN-RNJ.jpg"
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/OG/CN-RNJe.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
@@ -372,21 +372,28 @@
                 {
                     "name": "CN-RNN (Original Design)",
                     "texture": [
-                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/OG/CN-RNN.jpg"
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/OG/CN-RNNe.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
                     "name": "CN-RNZ (2004 - 2008 Design)",
                     "texture": [
-                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/2004/CN-RNZ.jpg"
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/2004/CN-RNZe.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 },
                 {
                     "name": "CN-ROB (2004 - 2008 Design)",
                     "texture": [
-                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/2004/CN-ROB.jpg"
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/2004/CN-ROBe.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
+                    "name": "CN-ROH (2004 - 2008 Design)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/wingletless/2004/CN-ROH.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 }
@@ -437,6 +444,21 @@
                     "name": "CN-ROB (2004 - 2008 Livery, Eyebrows)",
                     "texture": [
                         "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-ROBe.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+                {
+                    "name": "CN-ROB (2004 - 2008 Design)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/2004/CN-ROH.jpg"
+                    ],
+                    "credits": "RYANAIR5719"
+                },
+
+                {
+                    "name": "CN-ROB (2004 - 2008 Design, 60 Years w/ RAM Sticker)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/RYANAIR5719/Royal-Air-Maroc/main/737-800/special/CN-ROH60.jpg"
                     ],
                     "credits": "RYANAIR5719"
                 }
